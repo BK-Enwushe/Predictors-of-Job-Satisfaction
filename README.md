@@ -22,4 +22,3 @@ Practice Skills
 1. Data Cleaning
 2. Exploratory Data Analysis
 3. Regression
-4. 
